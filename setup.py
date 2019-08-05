@@ -11,7 +11,7 @@ setuptools.setup(
     description="This simple package has a function to check nulls in a pandas DataFrame and a function to plot a labeled confusion matrix.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nrvanwyck/lambdata_nrvanwyck",
+    url="https://github.com/nrvanwyck/lambdata_nrvanwyck_repo",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
