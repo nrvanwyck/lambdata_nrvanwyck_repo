@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lambdata_nrvanwyck",
+    name="lambdata_pkg_nrvanwyck",
     version="0.0.1",
     author="Nathan Van Wyck",
     author_email="nathanvanwyck@gmail.com",
